@@ -1,14 +1,14 @@
 ---
-title: About
+title: 
 icon: fas fa-info-circle
 order: 4
 ---
 
-# About Me
+# 게임 서버 개발자  
 
-**stargaze0429**  
-게임 서버 개발자  
+## 💡 Skills
 
+- C++, MMORPG 게임서버 개발
 ---
 
 ## 🛠 Career
