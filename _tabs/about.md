@@ -9,6 +9,7 @@ order: 4
 ## 💡 Skills
 
 - C++, MMORPG 게임서버 개발
+
 ---
 
 ## 🛠 Career
