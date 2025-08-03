@@ -1,8 +1,26 @@
 ---
-# the default layout is 'page'
+title: About
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# About Me
+
+**stargaze0429**  
+게임 서버 개발자  
+
+---
+
+## 🛠 Career
+
+- **2025.08 ~** Nexon  
+- **2022.04 ~ 2025.08** Netmarble F&C  
+- **2018.08 ~ 2022.02** NGELGAMES  
+
+---
+
+## 📍 Location  
+Seoul, Korea
+
+## ✉️ Contact  
+daisycutter@hotmail.co.kr
